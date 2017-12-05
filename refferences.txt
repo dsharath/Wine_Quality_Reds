@@ -1,0 +1,3 @@
+The links used for the project
+1)https://docs.google.com/document/d/1qEcwltBMlRYZT-l699-71TzInWfk4W9q5rTCSvDVMpc/pub?embedded=true
+2)https://s3.amazonaws.com/content.udacity-data.com/courses/ud651/diamondsExample_2016-05.html
